@@ -10,6 +10,10 @@ li {
 
 #csapat {
   max-width: 50%;
+  width: 400px;
+  float: right;
+  margin-left: 25px;
+  border: 6px dashed white;
 }
 
 footer {
