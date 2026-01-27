@@ -15,6 +15,9 @@ li {
   margin-left: 25px;
   border: 6px dashed white;
 }
+.bekezedes{
+  font-weight: bold;
+}
 
 footer {
   background-color: #2b2a2a;
